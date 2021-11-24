@@ -2,12 +2,12 @@
 # Video Games linear regression models
 
 ### Abstract:
-The goal of the project is to extract data from website and to get the rate depending on vote.
+The goal of the project is to extract data from website and to predict the rate depending on vote.
 
 ### Design:
-This project is one of the T5 Data Science Boot Camp requirements the data provided by imdb website. The problem is we want to get the rates depending on vote, To solve this problem, we need to answer this questions:
+This project is one of the T5 Data Science Boot Camp requirements the data provided by imdb website. The problem is we want to predict the rates depending on vote, To solve this problem, we need to answer this questions:
 
-Q1. What is the features in the data set?
+Q1. What is the features in the website?
 
 Q2. what is the number of rate?
 
@@ -36,6 +36,6 @@ votes - number of vote.
 
 •	Beautifulsoup
 
-•	reques
+•	request
 
 
