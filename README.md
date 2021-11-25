@@ -24,10 +24,6 @@ rate - Number of rate.
 
 Description - Game story.
 
-Director – Director name.
-
-Star - Star name.
-
 votes - number of vote.
 
 ### Tools:
