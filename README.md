@@ -1,5 +1,6 @@
 
-# Video Games Web Scraping
+# Predict Global Selse of Video Games 
+
 
 ### Abstract:
 The goal of the project is to scraping data from website and to predict the video games global sales depending on other features using linear regression model.
