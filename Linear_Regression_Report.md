@@ -25,6 +25,7 @@ JP_Sales - Sales in Japan (in millions).
 
 Other_Sales - Sales in the rest of the world (in millions)
 
+
 #### target:
 
 Global_Sales - Total worldwide sales.
