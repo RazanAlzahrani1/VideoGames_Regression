@@ -46,11 +46,10 @@ also we used data transform (Logarithmic transformation) we use it to make the d
 
 6- Apply experiment
 
+7- Test model
+
 7- Lasso & Readge
 
-8- Test model 
-
-9- Linear Regression 
 
 
 ### Tools:
