@@ -32,7 +32,7 @@ Global_Sales - Total worldwide sales.
 
 also we used data transform (Logarithmic transformation) we use it to make the data more normalized, We did several experiments and we used the best experiment which is polynomial with r-squared = 0.99.
 
-### Tools:
+### project workflow (steps):
 
 1- Web scraping multiple pages 
 
