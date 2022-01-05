@@ -13,22 +13,22 @@ The data used in this project is provided by  <a href="https://www.imdb.com/sear
 
 #### features:
 
-rate - Number of rate.
+1-rate - Number of rate.
 
-Rank - Ranking of overall sales.
+2-Rank - Ranking of overall sales.
 
-NA_Sales - Sales in North America (in millions).
+3-NA_Sales - Sales in North America (in millions).
 
-EU_Sales - Sales in Europe (in millions).
+4-EU_Sales - Sales in Europe (in millions).
 
-JP_Sales - Sales in Japan (in millions).
+5-JP_Sales - Sales in Japan (in millions).
 
-Other_Sales - Sales in the rest of the world (in millions)
+6-Other_Sales - Sales in the rest of the world (in millions)
 
 
 #### target:
 
-Global_Sales - Total worldwide sales.
+1-Global_Sales - Total worldwide sales.
 
 also we used data transform (Logarithmic transformation) we use it to make the data more normalized, We did several experiments and we used the best experiment which is polynomial with r-squared = 0.99.
 
